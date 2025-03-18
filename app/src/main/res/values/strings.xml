@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">视频自动答题工具</string>
+    <string name="accessibility_service_description">此服务用于自动检测视频中的答题弹窗，并自动选择选项、提交答案和点击确定按钮，让您无需手动操作即可继续观看视频。</string>
+</resources> 
